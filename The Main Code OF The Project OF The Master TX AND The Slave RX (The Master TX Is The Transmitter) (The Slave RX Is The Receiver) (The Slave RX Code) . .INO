@@ -2,7 +2,7 @@
 
 // In this program, We want to show that we send and display messages .
 
-// The Main Code OF The Project OF The Master TX , AND & The Slave RX (The Master TX Is The Transmitter) (The Slave RX Is The Receiver) (The Slave RX Code) . .INO .
+// The Main Code OF The Project OF The Master TX , AND & The Slave RX (The Master TX Is The Transmitter) (The Slave RX Is The Receiver) (The Slave RX Code) . . INO . .
 
 
 
